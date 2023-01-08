@@ -1,0 +1,217 @@
+/* measurement figma theke neya jabe pore */
+.head {
+    text-align: right;
+    background-image: url(../new-year-new-me/images/banner/banner3.png);
+    width: 1600px;
+    height: 808px;
+}
+
+.title-h01 {
+    position: absolute;
+    margin: 216px 230px 364px 845px;
+    font-weight: 700;
+    font-size: 65px;
+    width: 525px;
+    height: 228px;
+    color: white;
+}
+
+.description01 {
+    position: absolute;
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #FFFFFF;
+    padding-top: 24px;
+}
+
+.button-h01 {
+    position: absolute;
+    width: 160px;
+    height: 64px;
+    border-radius: 700px;
+    margin-top: 578px;
+    margin-bottom: 166px;
+    margin-left: 1210px;
+    margin-right: 230px;
+    padding-top: 32px;
+}
+
+.button-text {
+    padding: 20px;
+    color: #005FAC;
+}
+
+/* section 01 */
+.sec-01 {
+    display: flex;
+    padding-top: 131px;
+}
+
+.imgsec-01 {
+
+    width: 569px;
+    height: 723.3px;
+    padding-left: 206px;
+    padding-top: 131px;
+}
+
+.failure {
+    width: 416px;
+    height: 400px;
+    left: 862px;
+    top: 1178px;
+    margin-top: 370px;
+    padding-left: 87px;
+}
+
+.title-failure {
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    padding-bottom: 24px;
+}
+
+.desciption02 {
+    font-weight: 400;
+    font-size: 16px;
+    padding-top: 24px;
+    padding-bottom: 16px;
+    color: #444343;
+}
+
+section ul {
+    color: #444343;
+}
+
+/* section 02 */
+.sec-02 {
+    display: flex;
+    text-align: center;
+}
+
+.title02 {
+    padding-left: 765px;
+    padding-top: 129px;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.futureplan {
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.plans {
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.todo {
+    font-weight: 500;
+    font-size: 25px;
+    padding-top: 16px;
+    text-align: center;
+}
+
+/* gradient section */
+.grad {
+    
+    border: 100em;
+    background-image:
+        linear-gradient(to right, rgba(233, 44, 11, 0.815), rgba(255, 255, 255, 0.226)),
+        url('../new-year-new-me/images/watch.png');
+    background-repeat: no-repeat;
+    width: 1140px;
+    height: 300px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 250px;
+    
+}
+
+.gradtext {
+
+    text-align: top;
+    font-weight: 700;
+    font-size: 40px;
+    position: absolute;
+    width: 459px;
+    height: 94px;
+    padding-left: 100px;
+    padding-top: 10px;
+    color: white;
+
+}
+
+.gradbutton02 {
+    width: 160px;
+    height: 64px;
+    padding: 20px;
+
+}
+
+.gradbutton01 {
+    padding-left: 120px;
+    padding-top: 200px;
+}
+
+/* footer */
+.foot {
+    color: #FFFFFF;
+    display: flex;
+    background-color: #262424;
+    width: 1600px;
+    height: 577px;
+    margin-top: 500px;
+}
+
+.footdescrip {
+    padding-top: 130px;
+    padding-left: 250px;
+    width: 485px;
+    height: 317px;
+}
+
+.subs {
+    padding-top: 130px;
+    padding-right: 220px;
+    width: 325px;
+    height: 204px;
+    padding-left: 331px;
+}
+
+.subsbutton {
+    width: 150px;
+    height: 60px;
+    background-color: darkblue;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.substitle {
+    font-weight: 600;
+    font-size: 25px;
+    padding-bottom: 31px;
+}
+
+div form {
+    width: 325px;
+    height: 64px;
+    padding-bottom: 16px;
+    
+}
+#mailinput {
+    text-align: center;
+
+}
+/* border radius application er kaj explore korte hobe */
+
+#additional {
+    width: 47px;
+    height: 46px;
+}
