@@ -1,7 +1,7 @@
 /* measurement figma theke neya jabe pore */
 .head {
     text-align: right;
-    background-image: url(../new-year-new-me/images/banner/banner3.png);
+    background-image: url('../images/banner/banner3.png');
     width: 1600px;
     height: 808px;
 }
@@ -123,7 +123,7 @@ section ul {
     border: 100em;
     background-image:
         linear-gradient(to right, rgba(233, 44, 11, 0.815), rgba(255, 255, 255, 0.226)),
-        url('../new-year-new-me/images/watch.png');
+        url('../images/watch.png');
     background-repeat: no-repeat;
     width: 1140px;
     height: 300px;
